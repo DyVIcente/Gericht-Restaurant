@@ -1,5 +1,8 @@
 # Gericht Restaurant 
-Gericht Restaurant est un site Web conçu pour présenter le restaurant éponyme. C'est un projet d'entrainement. Sur le site, les utilisateurs peuvent :
+Gericht Restaurant est un site Web conçu pour présenter le restaurant éponyme. C'est un projet d'entrainement.
+Le design est basé sur une maquette Figma, vous pouvez la consulter ici : 
+https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0%3A1&t=KaZCRXVegjNNqHAa-0 
+Sur le site, les utilisateurs peuvent :
 
 En savoir plus sur le Restaurant et son histoire
 Lire la carte des boissons
