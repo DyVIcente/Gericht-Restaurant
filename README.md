@@ -15,7 +15,7 @@
 
 
 
-Sur le site, les utilisateurs peuvent :
+Sur le site, les utilisateurs peuvent :</br>
 :convenience_store: En savoir plus sur le Restaurant et son histoire</br>
 :scroll: Lire la carte des boissons</br>
 :man_cook: Connaitre le chef</br>
