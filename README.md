@@ -15,12 +15,12 @@
 
 
 
-<p align="center">Sur le site, les utilisateurs peuvent :</p>
-<p align="center">:convenience_store: En savoir plus sur le Restaurant et son histoire</p></br>
-<p align="center">:scroll: Lire la carte des boissons</p></br>
-<p align="center">:man_cook: Connaitre le chef </p></br>
-<p align="center">:star: Voir les récompenses attribuées au restaurant</p></br>
-<p align="center">:camera: Des images, une video</p></br>
-<p align="center">:telephone_receiver: Et contacter le restaurant </p></br>
+Sur le site, les utilisateurs peuvent :
+:convenience_store: En savoir plus sur le Restaurant et son histoire</br>
+:scroll: Lire la carte des boissons</br>
+:man_cook: Connaitre le chef</br>
+:star: Voir les récompenses attribuées au restaurant</br>
+:camera: Des images, une video</br>
+:telephone_receiver: Et contacter le restaurant </br>
 
 
